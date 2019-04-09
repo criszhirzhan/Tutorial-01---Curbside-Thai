@@ -9,3 +9,8 @@ programa
 Cada sección contiene una imagen con el elemento <img>, dos artículos <article>, párrafos los cuales se insertan con la etiqueta <p> y títulos que se insertan con las etiquetas <h1>, <h2> y <h3
 ![4](https://user-images.githubusercontent.com/34308679/55773219-3508cd00-5a55-11e9-8d5c-580128ee7594.png)
   En la primera sección contiene dos artículos los cuales contienen <aside>, que contienen listas desodenadas <ul>
+
+
+Finalmente la pagina queda estructurada de la siguiente manera.
+
+#	Página cuidar.html
